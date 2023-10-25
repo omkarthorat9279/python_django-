@@ -1,4 +1,4 @@
 # python_django-
 This is my python project
 <br>
-Author - Omkar Thorat
+Author - Omkar Thorat(python Developer)
